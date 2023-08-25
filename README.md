@@ -1,19 +1,37 @@
-**Exploring Ken's YouTube Channel Insights**
+# Bank Marketing Demographic Insights Dashboard
 
+In the realm of marketing, data-driven decisions reign supreme. Dive into a wealth of insights that promise to reshape your campaign strategies. From optimal timing to targeted engagement, this analysis uncovers the keys to unlocking success.
 
+Get ready to explore a treasure trove of findings that hold the potential to revolutionize your marketing endeavors. Let's embark on a journey through the data landscape, where patterns emerge, and opportunities beckon. As we unravel the secrets behind effective campaigns, be prepared to discover strategies that could redefine your approach and elevate your results.
 
-2020 marked a significant year for Ken's YouTube journey, with an impressive 113 video uploads. However, this number decreased to 47 in 2021. A closer examination of video metrics reveals intriguing patterns.
+## Months of Marketing Activity
+The analysis highlights May as the month with the highest marketing activity; however, it coincided with a substantial decline in term deposit offers acceptance (Lowest effective rate: -34.49%). For optimal results, the bank should focus its marketing campaigns during March, September, October, and possibly December (considering its lowest activity, warranting further exploration).
 
-Notably, the CPM (USD) distribution centers around $10, suggesting potential earnings per thousand views from ads. Yet, for a clearer revenue picture, RPM (USD) distribution is crucial due to YouTube's substantial share. Ken's videos predominantly yield an RPM of approximately $5, a more accurate indicator of generated revenue.
+## Seasonality
+Clients exhibit a preference for subscribing to term deposits during the fall and winter seasons. To enhance campaign impact, concentrate efforts during these periods.
 
-One video that stands out is "How I would Learn Data Science (if I Had to Start Over)" with around 47k likes, emerging as Ken's most viewed and appreciated content. The strong correlation between Views and Subscribers gained/lost aligns with expectations. Interestingly, videos like "Why I Quit Data Science" exhibit substantial Subscriber loss but don't appear among top Subscribers gained, as they often receive mixed engagement.
+## Campaign Calls 
+Implement a policy of no more than 3 calls per potential client. Excessive calls can deter potential clients from opening term deposit accounts.
 
-Views predominantly originate from the United States (1,354,450) and India (1,155,510), contributing to Ken's channel's million total views.
+## Age Category
+Target individuals in their 20s or younger and 60s or older for the upcoming campaign. The younger category showed a 60% subscription rate, while the eldest reached 76%. Focusing on these categories could significantly boost term deposit subscriptions.
 
-**Recommendation:** Collaborations with fellow YouTubers/Content Creators could greatly benefit Ken. Given the growing Data Science community's expanding interest, live collaborations could attract new audiences to Ken's channel, driving exploration of older content and encouraging subscriptions.
+## Occupation
+Retirees and students are more likely to subscribe to term deposits. Retirees value interest payments, while students also engage. Capitalize on this insight for the campaign.
 
-*In summary,* this analysis delved into a limited set of metrics. Different metrics may matter based on a creator's audience, subject, and goals. Expect potential updates and improvements in the future as I continue exploring YouTube analytics.
+## House Loans and Balances
+Clients with low or no balances tend to have house loans, impacting term deposit subscription likelihood. Prioritize average and high balance individuals to drive subscriptions.
 
-Huge thanks to Ken Jee 👌 for providing the data and inspiring this project. Your videos have aided countless enthusiasts in navigating the Data Science journey. Keep up the fantastic work!
+## Developing a Questionnaire
+Engagement during calls positively impacts subscription likelihood. Implementing a engaging questionnaire can enhance conversation length and engagement, ultimately increasing the probability of subscription.
 
-Find Ken Jee's YouTube channel [here]([link-to-channel](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)) 📺. For a visual representation of this project, check out the [Google Looker Dashboard]([link-to-google-looker](https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3)https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3) 📊.
+## Targeting Individuals with Higher Duration
+Prioritize individuals with a duration above 375, as they exhibit a high likelihood (78%) of opening a term deposit account. This strategy could substantially elevate campaign success rates.
+
+*In Conclusion,* these insights offer a roadmap for optimizing the bank's marketing campaigns. By focusing on strategic timing, engagement tactics, and targeted segments, the next marketing campaign holds promising potential.
+
+This analysis provides a snapshot of actionable insights, allowing the bank to refine its strategies effectively. As the bank embarks on its next marketing campaign, these findings can serve as a valuable guide.
+
+For a visual representation of this project, check out the [here](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg](https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3)https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3) 📊.
+
+![pict](Picture/Ken_Jee's_Youtube_Channel_Report_page.jpg)
