@@ -36,4 +36,4 @@ This analysis provides a snapshot of actionable insights, allowing the bank to r
 
 For a visual representation of this project, check out the [here](https://lookerstudio.google.com/reporting/675f0601-a702-4486-a3a1-779c8d5d1b26) 📊.
 
-![pict](Picture/1520046107677.jpeg)
+![pict](Picture/Bank_Marketing__Demographic_Insights_Dashboard.jpg)
