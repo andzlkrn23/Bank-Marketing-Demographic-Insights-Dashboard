@@ -1,5 +1,7 @@
 # Bank Marketing Demographic Insights Dashboard
 
+![pict](Picture/1520046107677.jpeg)
+
 In the realm of marketing, data-driven decisions reign supreme. Dive into a wealth of insights that promise to reshape your campaign strategies. From optimal timing to targeted engagement, this analysis uncovers the keys to unlocking success.
 
 Get ready to explore a treasure trove of findings that hold the potential to revolutionize your marketing endeavors. Let's embark on a journey through the data landscape, where patterns emerge, and opportunities beckon. As we unravel the secrets behind effective campaigns, be prepared to discover strategies that could redefine your approach and elevate your results.
@@ -32,6 +34,6 @@ Prioritize individuals with a duration above 375, as they exhibit a high likelih
 
 This analysis provides a snapshot of actionable insights, allowing the bank to refine its strategies effectively. As the bank embarks on its next marketing campaign, these findings can serve as a valuable guide.
 
-For a visual representation of this project, check out the [here](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg](https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3)https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3) 📊.
+For a visual representation of this project, check out the [here](https://lookerstudio.google.com/reporting/675f0601-a702-4486-a3a1-779c8d5d1b26) 📊.
 
-![pict](Picture/Ken_Jee's_Youtube_Channel_Report_page.jpg)
+![pict](Picture/1520046107677.jpeg)
