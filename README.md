@@ -1,17 +1,19 @@
 **Exploring Ken's YouTube Channel Insights**
 
-In the dynamic realm of YouTube, Ken's journey stood out significantly in 2020, marked by an impressive output of 113 videos. However, the momentum shifted in 2021, resulting in a reduced count of 47 videos. Delving into the metrics, intriguing revelations surfaced.
 
-Take a glance at the distribution of CPM (Cost Per Mille, in USD). It's centered around $10, suggesting potential earnings per thousand views through ads. Yet, to grasp Ken's true earnings, RPM (Revenue Per Mille, in USD) is the key player. Given YouTube's share, an RPM of around $5 emerges as a more accurate reflection of his actual revenue.
 
-Among the array of videos, a true champion emerges: "How I would Learn Data Science (if I Had to Start Over)" commands around 47k likes, solidifying its position as Ken's most viewed and applauded content. Notably, there's a strong correlation between views and the subscribers gained or lost. Interesting observations surface, like "Why I Quit Data Science" facing significant subscriber loss yet not appearing among the top subscribers gained—a testament to its polarizing nature.
+2020 marked a significant year for Ken's YouTube journey, with an impressive 113 video uploads. However, this number decreased to 47 in 2021. A closer examination of video metrics reveals intriguing patterns.
 
-Geographical mapping offers a revealing insight: the majority of Ken's YouTube traffic flows in from the United States (1,354,450 views) and India (1,155,510 views), accounting for the lion's share of his million total views.
+Notably, the CPM (USD) distribution centers around $10, suggesting potential earnings per thousand views from ads. Yet, for a clearer revenue picture, RPM (USD) distribution is crucial due to YouTube's substantial share. Ken's videos predominantly yield an RPM of approximately $5, a more accurate indicator of generated revenue.
 
-**Recommendation:** A dash of collaboration could work wonders for Ken. With the Data Science community's rapid growth, teaming up with fellow YouTubers/Content Creators, especially through live sessions, could introduce his channel to fresh audiences, driving curiosity toward his archive and potentially boosting subscriptions.
+One video that stands out is "How I would Learn Data Science (if I Had to Start Over)" with around 47k likes, emerging as Ken's most viewed and appreciated content. The strong correlation between Views and Subscribers gained/lost aligns with expectations. Interestingly, videos like "Why I Quit Data Science" exhibit substantial Subscriber loss but don't appear among top Subscribers gained, as they often receive mixed engagement.
 
-*In essence,* this analysis offers a focused glimpse into select metrics. Different projects, audiences, and goals could demand a unique set of metrics. Expect potential refinements and updates in the future as I continue my exploration of YouTube analytics.
+Views predominantly originate from the United States (1,354,450) and India (1,155,510), contributing to Ken's channel's million total views.
 
-Massive kudos to Ken Jee 👌 for sharing the data and inspiring this journey. Your videos have been a guiding light for many embarking on the Data Science voyage. Keep the fantastic work going!
+**Recommendation:** Collaborations with fellow YouTubers/Content Creators could greatly benefit Ken. Given the growing Data Science community's expanding interest, live collaborations could attract new audiences to Ken's channel, driving exploration of older content and encouraging subscriptions.
 
-Curious to know more about Ken Jee? Check out his YouTube channel [here](link-to-channel) 📺.
+*In summary,* this analysis delved into a limited set of metrics. Different metrics may matter based on a creator's audience, subject, and goals. Expect potential updates and improvements in the future as I continue exploring YouTube analytics.
+
+Huge thanks to Ken Jee 👌 for providing the data and inspiring this project. Your videos have aided countless enthusiasts in navigating the Data Science journey. Keep up the fantastic work!
+
+Find Ken Jee's YouTube channel [here]([link-to-channel](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)) 📺. For a visual representation of this project, check out the [Google Looker Dashboard]([link-to-google-looker](https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3)https://lookerstudio.google.com/reporting/20a5d1ed-a5dc-4fac-8b77-44da035979a3) 📊.
